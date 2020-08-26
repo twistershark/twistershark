@@ -13,32 +13,32 @@
 
 ---
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools
 
-[<img align="left" alt="React" width="50px" src="https://github.com/twistershark/twistershark/blob/master/logos/react.svg" />][react]
+[<img align="left" alt="React" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/react.svg" />][react]React
 
-[<img align="left" alt="React Native" width="50px" src="https://github.com/twistershark/twistershark/blob/master/logos/react.svg" />][react native]
+[<img align="left" alt="React Native" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/react.svg" />][react native]React Native
 
-[<img align="left" alt="NodeJS" width="50px" src="https://github.com/twistershark/twistershark/blob/master/logos/node.svg" />][nodejs]
+[<img align="left" alt="NodeJS" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/node.svg" />][nodejs]NodeJS
 
-[<img align="left" alt="Docker" width="50px" src="https://github.com/twistershark/twistershark/blob/master/logos/docker.png" />][docker]
+[<img align="left" alt="Docker" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/docker.png" />][docker]Docker
 
-[<img align="left" alt="TypeORM" width="50px" src="https://github.com/twistershark/twistershark/blob/master/logos/typeorm.png" />][Typeorm]
+[<img align="left" alt="TypeORM" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/typeorm.png" />][Typeorm]TypeORM
 
-[<img align="left" alt="PostgreSQL" width="50px" src="https://github.com/twistershark/twistershark/blob/master/logos/postgres.png" />][postgres]
+[<img align="left" alt="PostgreSQL" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/postgres.png" />][postgres]PostgreSQL
 
-[<img align="left" alt="MongoDB" width="50px" src="https://github.com/twistershark/twistershark/blob/master/logos/mongodb.png" />][mongodb]
+[<img align="left" alt="MongoDB" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/mongodb.png" />][mongodb]MongoDB
 
-[<img align="left" alt="Redis" width="50px" src="https://github.com/twistershark/twistershark/blob/master/logos/redis.png" />][redis]
+[<img align="left" alt="Redis" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/redis.png" />][redis]Redis
 
-[<img align="left" alt="JWT" width="50px" src="https://github.com/twistershark/twistershark/blob/master/logos/jwt.svg" />][JWT]
+[<img align="left" alt="JWT" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/jwt.svg" />][JWT]JWT
 
-[<img align="left" alt="Styled-Components" width="50px" src="https://github.com/twistershark/twistershark/blob/master/logos/styledcomponents.png" />][styledcomponents]
+[<img align="left" alt="Styled-Components" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/styledcomponents.png" />][styledcomponents]Styled Components
 
 
 
