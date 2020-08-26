@@ -16,44 +16,25 @@
 [<img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+---
 
 ### Languages and Tools
-<br />
 
-[<img alt="React" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/react.svg" />][react] React
-
-[<img alt="React Native" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/react.svg" />][react native] React Native
-
-[<img alt="NodeJS" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/node.svg" />][nodejs] NodeJS
-
-[<img alt="Docker" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/docker.png" />][docker] Docker
-
-[<img alt="TypeORM" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/typeorm.png" />][Typeorm] TypeORM
-
-[<img alt="PostgreSQL" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/postgres.png" />][postgres] PostgreSQL
-
-[<img alt="MongoDB" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/mongodb.png" />][mongodb] MongoDB
-
-[<img alt="Redis" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/redis.png" />][redis] Redis
-
-[<img alt="JWT" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/jwt.svg" />][JWT]
- JWT
-[<img alt="Styled-Components" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/styledcomponents.png" />][styledcomponents] Styled Components
-
-
-
-
+- [React](https://reactjs.org)
+- [React Native](https://reactnative.dev)
+- [NodeJS](https://nodejs.org/en/)
+- [Docker](https://www.docker.com/)
+- [TypeORM](https://typeorm.io/#/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [Redis](https://redis.io/)
+- [JWT](https://jwt.io/)
+- [Styled Components](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Flexbox](https://styled-components.com/)
+- [C++](https://www.cplusplus.com/)
+- [C](http://www.open-std.org/jtc1/sc22/wg14/)
+- [Assembly]()
+- [Python](https://www.python.org/)
 
 [instagram]: <https://www.instagram.com/twistershark>
 [linkedin]: <https://www.linkedin.com/in/paulovictorsilva/>
-[react]: <https://reactjs.org/>
-[react native]: <https://reactnative.dev/>
-[nodejs]: <https://nodejs.org/en/>
-[docker]: <https://www.docker.com/>
-[Typeorm]: <https://typeorm.io/#/>
-[postgres]: <https://www.postgresql.org/>
-[mongodb]: <https://www.mongodb.com/>
-[redis]: <https://redis.io/>
-[JWT]: <https://jwt.io/>
-[styledcomponents]: <https://styled-components.com/>
