@@ -20,25 +20,25 @@
 
 ### Languages and Tools
 
-[<img align="left" alt="React" width="22px" src="" />][react]
+[<img align="left" alt="React" width="22px" src="https://github.com/twistershark/twistershark/blob/master/logos/react.svg" />][react]
 
-[<img align="left" alt="React Native" width="22px" src="" />][react native]
+[<img align="left" alt="React Native" width="22px" src="https://github.com/twistershark/twistershark/blob/master/logos/react.svg" />][react native]
 
-[<img align="left" alt="NodeJS" width="22px" src="" />][nodejs]
+[<img align="left" alt="NodeJS" width="22px" src="https://github.com/twistershark/twistershark/blob/master/logos/node.svg" />][nodejs]
 
-[<img align="left" alt="Docker" width="22px" src="" />][docker]
+[<img align="left" alt="Docker" width="22px" src="https://github.com/twistershark/twistershark/blob/master/logos/docker.png" />][docker]
 
-[<img align="left" alt="TypeORM" width="22px" src="" />][Typeorm]
+[<img align="left" alt="TypeORM" width="22px" src="https://github.com/twistershark/twistershark/blob/master/logos/typeorm.png" />][Typeorm]
 
-[<img align="left" alt="PostgreSQL" width="22px" src="" />][postgres]
+[<img align="left" alt="PostgreSQL" width="22px" src="https://github.com/twistershark/twistershark/blob/master/logos/postgres.png" />][postgres]
 
-[<img align="left" alt="MongoDB" width="22px" src="" />][mongodb]
+[<img align="left" alt="MongoDB" width="22px" src="https://github.com/twistershark/twistershark/blob/master/logos/mongodb.png" />][mongodb]
 
-[<img align="left" alt="Redis" width="22px" src="" />][redis]
+[<img align="left" alt="Redis" width="22px" src="https://github.com/twistershark/twistershark/blob/master/logos/redis.png" />][redis]
 
-[<img align="left" alt="JWT" width="22px" src="" />][JWT]
+[<img align="left" alt="JWT" width="22px" src="https://github.com/twistershark/twistershark/blob/master/logos/jwt.svg" />][JWT]
 
-[<img align="left" alt="Styled-Components" width="22px" src="" />][styledcomponents]
+[<img align="left" alt="Styled-Components" width="22px" src="https://github.com/twistershark/twistershark/blob/master/logos/styledcomponents.png" />][styledcomponents]
 
 
 
