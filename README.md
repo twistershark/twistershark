@@ -20,25 +20,25 @@
 
 ### Languages and Tools
 
-<p>[<img align="left" alt="React" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/react.svg" />][react]React</p>
+[<img alt="React" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/react.svg" />][react]
 
-<p>[<img align="left" alt="React Native" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/react.svg" />][react native]React Native</p>
+[<img alt="React Native" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/react.svg" />][react native]
 
-<p>[<img align="left" alt="NodeJS" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/node.svg" />][nodejs]NodeJS</p>
+[<img alt="NodeJS" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/node.svg" />][nodejs]
 
-<p>[<img align="left" alt="Docker" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/docker.png" />][docker]Docker</p>
+[<img alt="Docker" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/docker.png" />][docker]
 
-<p>[<img align="left" alt="TypeORM" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/typeorm.png" />][Typeorm]TypeORM</p>
+[<img alt="TypeORM" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/typeorm.png" />][Typeorm]
 
-<p>[<img align="left" alt="PostgreSQL" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/postgres.png" />][postgres]PostgreSQL</p>
+[<img alt="PostgreSQL" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/postgres.png" />][postgres]
 
-<p>[<img align="left" alt="MongoDB" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/mongodb.png" />][mongodb]MongoDB</p>
+[<img alt="MongoDB" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/mongodb.png" />][mongodb]
 
-<p>[<img align="left" alt="Redis" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/redis.png" />][redis]Redis</p>
+[<img alt="Redis" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/redis.png" />][redis]
 
-<p>[<img align="left" alt="JWT" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/jwt.svg" />][JWT]JWT</p>
+[<img alt="JWT" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/jwt.svg" />][JWT]
 
-<p>[<img align="left" alt="Styled-Components" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/styledcomponents.png" />][styledcomponents]Styled Components</p>
+[<img alt="Styled-Components" width="100px" src="https://github.com/twistershark/twistershark/blob/master/logos/styledcomponents.png" />][styledcomponents]
 
 
 
