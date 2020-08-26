@@ -1,6 +1,6 @@
 ## I'm Paulo Victor, a full-stack developer! 😁
 
-<img src="https://giphy.com/gifs/26tn33aiTi1jkl6H6/html5" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 <br />
 
@@ -15,6 +15,8 @@
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 ### Languages and Tools
 
