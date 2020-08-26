@@ -1,9 +1,9 @@
-## My name is Paulo Victor, and I'm a full-stack developer! 😁
+## I'm Paulo Victor, a full-stack JS developer! 😁
 ---
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
-<br />
+
 ---
 ### Currently graduating in software engineering 👨‍🎓
 - 💻 I've been learning React, React Native and NodeJS recently
@@ -11,13 +11,11 @@
 - 🎯 2020 goals: Start an Open Source Project
 - 🎻 Fun fact: I play the violin
 
-<br />
 ---
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 ---
 ### Languages and Tools
 
