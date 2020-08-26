@@ -15,7 +15,7 @@
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<p></p>
+<br></br>
 
 ---
 
