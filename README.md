@@ -1,4 +1,4 @@
-## I'm Paulo Victor, a full-stack developer! 😁
+## My name is Paulo Victor, and I'm a full-stack developer! 😁
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
