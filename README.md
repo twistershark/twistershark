@@ -8,7 +8,7 @@
 ### Currently graduating in software engineering 👨‍🎓
 - 💻 I've been learning React, React Native and NodeJS recently
 - 🤝 I'm looking forward to contribute on Open Source projects
-- 🎯 2020 goals: Start an Open Source Project
+- 🎯 2021 goals: Start an Open Source Project
 - 🎻 Fun fact: I play the violin
 
 ---
