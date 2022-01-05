@@ -1,7 +1,7 @@
 <img src="https://github.com/twistershark/twistershark/blob/master/header.png" />
 
 
-<h2 align="center">Hi there! ✌️ How are you doing? 😁</h2>
+<h1 align="center">Hi there! ✌️ How are you doing? 😁</h1>
 
 
 ### :space_invader: &nbsp;About Me
