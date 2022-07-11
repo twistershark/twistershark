@@ -7,7 +7,6 @@
 ### :space_invader: &nbsp;About Me
 - 👨‍🎓 Currently graduating in software engineering at [UnB](https://www.unb.br/)
 - 💓 I love learning new technologies and solving problems in creative ways.
-- 💻 Coding since 2018 with experience in real-world applications.
 - 🖥 Focused on Web development technologies.
 - 🎯 let 2022 goals = ["Contribute to more open source projects", "Become a better developer", "Get married"].
 
