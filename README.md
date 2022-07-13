@@ -8,7 +8,6 @@
 - 👨‍🎓 Currently graduating in software engineering at [UnB](https://www.unb.br/)
 - 💓 I love learning new technologies and solving problems in creative ways.
 - 🖥 Focused on Web development technologies.
-- 🎯 let 2022 goals = ["Contribute to more open source projects", "Become a better developer", "Get married"].
 
 <a href="mailto:paulovmel@gmail.com?subject=Olá%Paulo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25 /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/paulovictorsilva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>&nbsp;&nbsp;
 
