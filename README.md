@@ -1,4 +1,4 @@
-<img src="https://github.com/twistershark/twistershark/blob/master/header.png" />
+<img src="https://github.com/twistershark/twistershark/blob/master/header-paulovictor.png" />
 
 
 <h1 align="center">Hi there! ✌️ How are you doing? 😁</h1>
