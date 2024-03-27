@@ -5,7 +5,7 @@
 
 
 ### :space_invader: &nbsp;About Me
-- 👨‍🎓 Currently graduating in software engineering at [UnB](https://www.unb.br/)
+- 👨‍🎓 Graduate in software engineering at [UnB](https://www.unb.br/)
 - 💓 I love learning new technologies and solving problems in creative ways.
 - 🖥 Focused on Web development technologies.
 
